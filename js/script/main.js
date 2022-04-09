@@ -1,3 +1,5 @@
+var Phaser = Phaser || {};
+
 // CONFIGURATIONS
 var config = {
     type: Phaser.AUTO,
